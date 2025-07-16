@@ -5,9 +5,15 @@ This interactive Power BI dashboard provides actionable insights into workplace 
 **🔍 Features**
 
 Visual analysis of 514 injury cases across the plant
+
 Total injury cost tracked: ₹717.8K
+
 Shift-based trends highlighting injury distribution by time of day
+
 Department-wise injury breakdown for root cause analysis
+
 Severity-level insights with quick drill-down to individual incidents
+
 Interactive charts, KPIs, and slicers for deep data exploration
+
 Dark-themed, minimalistic UI with healthcare-inspired visuals
