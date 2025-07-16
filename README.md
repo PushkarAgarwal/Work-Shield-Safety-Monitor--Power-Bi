@@ -1,7 +1,9 @@
-🛡️ Work Shield Safety Monitor - Power BI
+**🛡️ Work Shield Safety Monitor - Power BI**
+
 This interactive Power BI dashboard provides actionable insights into workplace injury incidents, helping organizations enhance their safety strategies. With detailed breakdowns by shift, injury type, severity, and cost, the dashboard is built to support safety officers, EHS teams, and operational managers in identifying critical risk zones and improving workplace safety.
 
-🔍 Features
+**🔍 Features**
+
 Visual analysis of 514 injury cases across the plant
 Total injury cost tracked: ₹717.8K
 Shift-based trends highlighting injury distribution by time of day
